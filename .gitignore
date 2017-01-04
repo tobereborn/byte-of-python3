@@ -4,3 +4,4 @@
 /src/examples/shoplist.data
 /src/examples/poem.txt
 /src/examples/*.pyc
+/src/examples/__pycache__/
